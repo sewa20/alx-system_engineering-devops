@@ -11,3 +11,4 @@ Delete the directory
 Change directory to previous one
 Lists in full
 Print file
+Create symbolic link
