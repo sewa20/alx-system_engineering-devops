@@ -6,3 +6,4 @@ Display current directory contents including hidden contents in a long format
 Display current directory contents including user and group IDs in a long format
 Script that creates directory
 Move the file
+Delete the file
