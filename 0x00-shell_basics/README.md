@@ -7,3 +7,4 @@ Display current directory contents including user and group IDs in a long format
 Script that creates directory
 Move the file
 Delete the file
+Delete the directory
