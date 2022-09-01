@@ -9,3 +9,4 @@ Move the file
 Delete the file
 Delete the directory
 Change directory to previous one
+Lists in full
