@@ -12,4 +12,5 @@ Create a script that changes the mode same as another file
 Create a script that gives execute permissions to all subdirectories of the directory
 Create a script that creates a directory and permissions 751 in the working directory
 Create a script that changes group ownership
-Create a script that changes both group and ownership 
+Create a script that changes both group and ownership
+Create a script that changes ownership of a symbolic link 
