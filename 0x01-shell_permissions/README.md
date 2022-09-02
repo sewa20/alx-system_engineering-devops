@@ -6,4 +6,5 @@ Create a script that creates an empty file
 Create a script that gives executable permissions to the owner of the file
 Create a script that gives executable permissions to both the owner and group
 Create a script that gives executable permissions to everybody
-Create a script that gives permission to only the user 
+Create a script that gives permission to only the user
+Create a script that gives permission to execute to the group 
