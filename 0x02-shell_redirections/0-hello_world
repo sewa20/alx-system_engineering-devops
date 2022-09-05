@@ -1,2 +1,1 @@
-#!/bin/bash
-print "Hello, World\n" > 0-hello_world
+Hello, World
