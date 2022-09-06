@@ -13,3 +13,4 @@ Script that displays 10 newest files in the directory
 Script that inputs and prints words that appear once
 Script that displays lines containing pattern in the file
 Script that displays number of lines containing a pattern "bin" in the file
+Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
