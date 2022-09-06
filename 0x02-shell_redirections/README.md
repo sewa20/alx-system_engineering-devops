@@ -10,3 +10,4 @@ Script that duplicates last lines of file
 Script that deletes files with JavaScript extensions
 Script that counts the number of directories plus sub-directories
 Script that displays 10 newest files in the directory
+Script that inputs and prints words that appear once
